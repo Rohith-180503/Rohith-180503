@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith Nidumolu</h1>
+<h1 align="center">Hi 👋, I'm Nidumolu Bala Rohith</h1>
 <h3 align="center">Front-End Developer | React Enthusiast | Aspiring Full-Stack Engineer</h3>
 
 <p align="center">
