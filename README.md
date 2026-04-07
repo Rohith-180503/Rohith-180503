@@ -11,7 +11,7 @@
   <a href="https://github.com/Rohith-180503" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://github.com/Rohith-180503/portfolio](https://rohith-180503.github.io/PORTFOLIO/)" target="_blank">
+  <a href="https://rohith-180503.github.io/PORTFOLIO/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
