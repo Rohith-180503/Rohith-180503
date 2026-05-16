@@ -178,7 +178,7 @@ Collection of foundational front-end projects exploring responsive design, layou
 
 ## Experience
 
-### Graduate Engineer Intern - Voltech Engineers Pvt. Ltd.
+### Graduate Engineer Trainee - Voltech Engineers Pvt. Ltd.
 
 **Jul 2024 - Mar 2025 | Chennai, India**
 
