@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🚀 **Full-Stack Developer | 🎮 Game Engineer | ⚡ Problem Solver**
+### 🚀 **Full-Stack Developer | ⚡ Problem Solver**
 
 > *Building blazing-fast web applications, immersive interactive experiences, and battle-tested backend systems with cutting-edge technologies.*
 
