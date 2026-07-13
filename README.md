@@ -31,8 +31,6 @@ I'm a versatile developer specializing in full-stack development, game engineeri
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2_Database-0066CC?style=for-the-badge&logo=database&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### **Authentication & Security**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -109,7 +107,7 @@ An interactive endless runner game featuring advanced physics, sprite-based anim
 ---
 
 ### ✅ [TaskFlow](https://github.com/Rohith-180503/TaskFlow) – Full-Stack Task Management
-**Live:** https://todo-list-app-gray-iota.vercel.app
+**Live:**https://taskflow-nm5v.onrender.com
 
 An enterprise-grade task management application demonstrating clean architecture, RESTful API design, and modern Spring Boot practices.
 
