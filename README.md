@@ -1,259 +1,170 @@
-<h1 align="center">Hi, I'm Nidumolu Bala Rohith</h1>
-<h3 align="center">Front-End Developer | React Specialist | Full-Stack Engineer in Progress</h3>
+# 👋 Welcome to My GitHub
 
-<p align="center">
-  <a href="https://linkedin.com/in/rohithnidumolu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rohithnidumolu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rohith-180503" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://portfolio-wine-one-82.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+**Full-Stack Developer | Game Developer | Problem Solver**
+
+Building scalable web applications, engaging interactive experiences, and robust backend systems with modern technologies.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a 2024 graduate engineer with a strong passion for full-stack web development and modern UI/UX design. With a foundation in **Java, SQL, JavaScript, and React**, I specialize in building responsive, interactive web applications that combine clean design with robust functionality.
-
-Currently, I'm advancing my skills in **backend development** using **Node.js, Express, and databases** while maintaining my expertise in creating pixel-perfect frontend experiences. My background in **Electrical and Electronics Engineering** brings analytical rigor and systematic problem-solving to every project I tackle.
-
-### What I Do:
-- 🎨 **Frontend Development**: Create responsive, accessible UIs with React, HTML5, CSS3
-- 🔧 **Full-Stack Projects**: Build end-to-end applications with authentication, databases, and payment integration
-- 🎮 **Interactive Experiences**: Develop engaging games and interactive applications using vanilla JavaScript
-- 📚 **Educational Platforms**: Design and implement learning management systems with real-time features
-- 🚀 **Performance Optimization**: Focus on clean, maintainable, and scalable code architecture
-
-### Core Strengths:
-- Analytical thinking and systematic debugging
-- Strong problem-solving abilities
-- Clear communication and documentation
-- Full-stack capability (Frontend → Backend → Database)
-- UI/UX design principles and responsive design
+I'm a versatile developer specializing in full-stack development, game engineering, and task management systems. I combine clean architecture principles with modern frameworks to build production-ready applications that solve real-world problems. Experienced with both relational and NoSQL databases for diverse data modeling scenarios.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack & Skills
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
+### **Databases & Data Persistence**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-0066CC?style=for-the-badge&logo=database&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+### **Authentication & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-blue?style=for-the-badge)
+
+### **Payment & Third-Party Integration**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+### **Build & Deployment Tools**
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### **Development Methodologies**
+- **REST API Design** - Clean, scalable endpoints with proper HTTP semantics
+- **Component Architecture** - Modular, reusable UI components
+- **State Management** - Context API, cookie-based sessions, JWT authentication
+- **Responsive Design** - Mobile-first approach with CSS media queries
+- **Game Development** - Physics simulation, collision detection, sprite animations
+- **Database Design** - Relational (MySQL) and NoSQL (MongoDB) schema modeling for diverse use cases
 
 ---
 
-## Featured Projects
+## 🎯 Featured Projects
 
-### 1. 🎓 LearnHub - Full-Stack Education Platform
-**React 19 | Vite | Node.js | Express | SQLite | JWT | Stripe**
+### 🎓 [LearnHub](https://github.com/Rohith-180503/LEARNHUB) – Full-Stack Education Platform
+**Live:** https://learnhub-wine.vercel.app
 
-A professional-grade, full-stack online learning ecosystem with 44+ courses, real-time progress tracking, and secure payment integration.
+A production-grade online learning ecosystem featuring dynamic course delivery, secure authentication, and integrated payment processing.
+
+**Tech Stack:** React 19 • Vite • Node.js • Express.js • MySQL • MongoDB • SQLite • JWT • Stripe
+
+**Core Engineering Problems Solved:**
+- **Stateless Authentication**: Implemented httpOnly JWT cookies to prevent XSS attacks while maintaining secure session management
+- **Real-Time Progress Tracking**: Course completion data persists across sessions with seamless synchronization using relational database integrity
+- **Payment Integration**: Integrated Stripe Checkout with webhook-based automation for frictionless course purchases
+- **Global State Management**: Built Context API architecture to manage Auth and Cart states without prop drilling
+- **Full Curriculum Architecture**: Designed hierarchical data model (Courses → Modules → Lessons) with efficient querying across relational and NoSQL stores
+- **Polyglot Persistence**: Leveraged MySQL for transactional consistency and MongoDB for flexible document storage of course metadata
 
 **Key Features:**
-- Full curriculum management with modules and lessons
-- JWT-based authentication with httpOnly cookies
-- Shopping cart with real-time synchronization
-- Stripe payment processing with webhooks
-- Progress tracking across devices
-- Responsive glassmorphism UI
-
-**Highlights:**
-- Production-ready architecture with proper separation of concerns
-- Industry-standard security practices (password hashing, CORS, XSS protection)
-- Scalable API design with clean routing structure
-- Database persistence with schema validation
-
-📍 **Live:** [learnhub-wine.vercel.app](https://learnhub-wine.vercel.app)
+- 44+ curated courses with complete curriculum mapping
+- User enrollment tracking and progress persistence
+- Secure cart synchronization across devices
+- Professional payment workflow with Stripe
+- JWT-based secure session management
+- Multi-database support for optimal data storage patterns
 
 ---
 
-### 2. 📝 TaskFlow - Task Management Application
-**HTML5 | CSS3 | JavaScript | LocalStorage**
+### 🐉 [Dragon Dash Game](https://github.com/Rohith-180503/DRAGON-DASH-GAME) – Endless Runner Game
+**Live:** https://dragon-dash-game.vercel.app
 
-A modern, feature-rich todo list application with advanced filtering, sorting, inline editing, and theme management.
+An interactive endless runner game featuring advanced physics, sprite-based animation, and particle effects—built entirely with vanilla JavaScript.
+
+**Tech Stack:** JavaScript (ES6+) • HTML5 • CSS3 • Web Audio API
+
+**Core Engineering Problems Solved:**
+- **Game Physics Engine**: Implemented gravity-based jumping mechanics with frame-perfect collision detection using bounding box algorithms
+- **Sprite Animation Pipeline**: Built automated sprite frame sequencing using CSS keyframe calculations for smooth character and obstacle animations
+- **Parallax Scrolling**: Layered background rendering with variable speeds for immersive visual depth perception
+- **Audio Synthesis**: Created procedural sound effects using Web Audio API (jump sounds, level-ups, game-over audio)
+- **Responsive Game Controls**: Dual input system supporting keyboard (desktop) and touch buttons (mobile)
+- **High Score Persistence**: LocalStorage-based leaderboard system with client-side data management
 
 **Key Features:**
-- Add, edit, delete, and complete tasks with visual feedback
-- Priority levels (High/Medium/Low) with visual indicators
-- Filter tasks by status (All/Active/Completed)
-- Sort by creation date, priority, or completion status
-- Markdown support with DOMPurify sanitization
-- Dark/Light theme toggle with persistence
-- Undo functionality for destructive actions
-- Accessibility features (ARIA labels, keyboard navigation, reduced motion support)
-
-**Technical Highlights:**
-- Event delegation for scalable list interactions
-- DocumentFragment for optimized rendering
-- LocalStorage with fallback guards
-- Responsive design for mobile and desktop
-
-📍 **Live:** [todo-list-app-gray-iota.vercel.app](https://todo-list-app-gray-iota.vercel.app)
+- Endless obstacle spawning with progressive difficulty scaling
+- Multi-directional player movement (left, right, jump, duck)
+- Dynamic level progression with increasing game speed
+- Visual feedback via screen shake and particle effects
+- Mobile-friendly touch controls
+- Persistent high score tracking
 
 ---
 
-### 3. 🐉 Dragon Dash - Endless Runner Game
-**HTML5 | CSS3 | JavaScript | Web Audio API | LocalStorage**
+### ✅ [TaskFlow](https://github.com/Rohith-180503/TaskFlow) – Full-Stack Task Management
+**Live:** https://todo-list-app-gray-iota.vercel.app
 
-A feature-rich endless runner arcade game with sprite animations, progressive difficulty, and audio effects.
+An enterprise-grade task management application demonstrating clean architecture, RESTful API design, and modern Spring Boot practices.
+
+**Tech Stack:** Java 17 • Spring Boot 3.3 • Spring Data JPA • MySQL • H2 Database • Maven • Docker
+
+**Core Engineering Problems Solved:**
+- **Layered Architecture**: Implemented clean separation of concerns (Controller → Service → Repository) for maintainability and testability
+- **Data Validation**: Added Bean Validation annotations for input sanitization and business rule enforcement
+- **Exception Handling**: Centralized error handling with structured error responses and meaningful HTTP status codes
+- **Database Persistence**: Utilized Spring Data JPA with MySQL for relational data integrity and H2 for in-memory testing with production-ready patterns
+- **REST API Design**: RESTful endpoints with proper CRUD operations and query parameters for filtering/sorting
+- **Frontend Integration**: Responsive HTML/CSS/JavaScript UI seamlessly communicating with backend via REST
 
 **Key Features:**
-- Sprite-based character animation (48 frames)
-- Enemy variety with 44-frame animations
-- Parallax background for depth
-- Progressive difficulty with increasing speed
-- Sound effects and background music via Web Audio API
-- High score persistence
-- Pause/Resume functionality
-- Mobile-responsive controls
-
-**Game Mechanics:**
-- Collision detection system
-- Dynamic level scaling
-- Power-up system with temporary effects
-- Touch-friendly interface for mobile
-- Smooth 60 FPS gameplay
-
-📍 **Live:** [dragon-dash-game.vercel.app](https://dragon-dash-game.vercel.app)
+- Complete CRUD operations for task management
+- Priority-based filtering and sorting
+- Task completion tracking with statistics
+- Light/dark theme toggle
+- RESTful API with structured error responses
+- MySQL persistence with relational integrity
+- Containerized deployment with Docker
 
 ---
 
-### 4. 🎨 Portfolio - Personal Showcase
-**HTML5 | CSS3 | JavaScript | Responsive Design**
+## 📊 GitHub Stats
 
-A professional portfolio website showcasing projects, skills, and experience with smooth animations and modern design.
-
-**Features:**
-- Responsive grid layout for projects
-- Smooth scroll animations
-- Interactive project cards
-- Contact information section
-- Mobile-optimized navigation
-
-📍 **Live:** [portfolio-wine-one-82.vercel.app](https://portfolio-wine-one-82.vercel.app)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-180503&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
 ---
 
-### 5. 🎬 Netflix Clone - Responsive Landing Page
-**HTML5 | CSS3**
+## 🔗 Let's Connect
 
-A pixel-perfect responsive clone of Netflix India landing page demonstrating modern web design principles.
-
----
-
-### 6. 🌐 Basic Front-End Projects
-**HTML5 | CSS3 | JavaScript**
-
-Collection of foundational front-end projects exploring responsive design, layouts, and interactive components.
+- **GitHub**: [@Rohith-180503](https://github.com/Rohith-180503)
+- **Email**: Open to opportunities and collaborations
 
 ---
 
-## Experience
+## 🎓 Key Competencies
 
-### Graduate Engineer Trainee - Voltech Engineers Pvt. Ltd.
-
-**Jul 2024 - Mar 2025 | Chennai, India**
-
-- Collaborated on high-voltage substation commissioning projects
-- Prepared Single-Line Diagrams (SLDs) and control panel layouts using CAD tools
-- Performed comprehensive troubleshooting and fault analysis on system-level electrical issues
-- Documented technical processes and procedures for operational efficiency
-- Gained hands-on experience with industrial electrical systems and safety protocols
-
----
-
-## Education
-
-### B.Tech - Electrical and Electronics Engineering
-
-**SRKR Engineering College**  
-**2020 - 2024 | GPA: 7.95 / 10**
-
-Core Coursework: Circuit Analysis, Digital Systems, Control Systems, Power Electronics, Microprocessors
-
-### Intermediate (MPC - Mathematics, Physics, Chemistry)
-
-**Narayana Junior College, Vijayawada**  
-**2018 - 2020 | Score: 910 / 1000**
-
-### Secondary School
-
-**Flora English Medium School, Vuyyuru**  
-**2017 - 2018 | GPA: 10 / 10**
+✅ **Full-Stack Architecture** - Frontend-to-database integration  
+✅ **RESTful API Design** - Clean, scalable endpoint design  
+✅ **Game Development** - Physics engines, collision detection, animations  
+✅ **Security** - JWT auth, password hashing, XSS prevention  
+✅ **State Management** - Context API, session persistence, real-time sync  
+✅ **Database Design** - Relational (MySQL) and NoSQL (MongoDB) schema modeling  
+✅ **Polyglot Persistence** - Choosing optimal data stores for different use cases  
+✅ **Responsive UI/UX** - Mobile-first design, accessibility considerations  
+✅ **DevOps & Deployment** - Docker, Vercel, environment configuration  
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-180503&show_icons=true&theme=tokyonight" />
-</p>
+**Transforming ideas into scalable, user-friendly software solutions** 🚀
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-180503&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-180503&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Current Focus
-
-- 🔄 Expanding full-stack development expertise with advanced backend patterns
-- 📚 Building production-grade applications with security and scalability
-- 🎯 Deepening knowledge in database design and optimization
-- 🌐 Exploring modern DevOps practices and deployment strategies
-- 🤝 Contributing to open-source projects
-- 📖 Creating detailed documentation and technical guides
-
----
-
-## Interests & Passions
-
-- Full-Stack Web Development
-- UI/UX Design Systems
-- Interactive Web Applications
-- Game Development with Web Technologies
-- Open-Source Contribution
-- Technical Writing and Documentation
-- Building Side Projects
-
----
-
-<p align="center">
-  ⭐ <b>Always learning. Always building. Always improving.</b> ⭐
-</p>
-
-<p align="center">
-  <i>Open to collaboration and new opportunities. Let's build something amazing together!</i>
-</p>
+</div>
