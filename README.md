@@ -1,168 +1,374 @@
-# 👋 Welcome to My GitHub
-
-**Full-Stack Developer | Game Developer | Problem Solver**
-
-Building scalable web applications, engaging interactive experiences, and robust backend systems with modern technologies.
-
----
-
-## 🚀 About Me
-
-I'm a versatile developer specializing in full-stack development, game engineering, and task management systems. I combine clean architecture principles with modern frameworks to build production-ready applications that solve real-world problems. Experienced with both relational and NoSQL databases for diverse data modeling scenarios.
-
----
-
-## 💻 Tech Stack & Skills
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### **Databases & Data Persistence**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Authentication & Security**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-blue?style=for-the-badge)
-
-### **Payment & Third-Party Integration**
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-### **Build & Deployment Tools**
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### **Development Methodologies**
-- **REST API Design** - Clean, scalable endpoints with proper HTTP semantics
-- **Component Architecture** - Modular, reusable UI components
-- **State Management** - Context API, cookie-based sessions, JWT authentication
-- **Responsive Design** - Mobile-first approach with CSS media queries
-- **Game Development** - Physics simulation, collision detection, sprite animations
-- **Database Design** - Relational (MySQL) and NoSQL (MongoDB) schema modeling for diverse use cases
-
----
-
-## 🎯 Featured Projects
-
-### 🎓 [LearnHub](https://github.com/Rohith-180503/LEARNHUB) – Full-Stack Education Platform
-**Live:** https://learnhub-wine.vercel.app
-
-A production-grade online learning ecosystem featuring dynamic course delivery, secure authentication, and integrated payment processing.
-
-**Tech Stack:** React 19 • Vite • Node.js • Express.js • MySQL • MongoDB • SQLite • JWT • Stripe
-
-**Core Engineering Problems Solved:**
-- **Stateless Authentication**: Implemented httpOnly JWT cookies to prevent XSS attacks while maintaining secure session management
-- **Real-Time Progress Tracking**: Course completion data persists across sessions with seamless synchronization using relational database integrity
-- **Payment Integration**: Integrated Stripe Checkout with webhook-based automation for frictionless course purchases
-- **Global State Management**: Built Context API architecture to manage Auth and Cart states without prop drilling
-- **Full Curriculum Architecture**: Designed hierarchical data model (Courses → Modules → Lessons) with efficient querying across relational and NoSQL stores
-- **Polyglot Persistence**: Leveraged MySQL for transactional consistency and MongoDB for flexible document storage of course metadata
-
-**Key Features:**
-- 44+ curated courses with complete curriculum mapping
-- User enrollment tracking and progress persistence
-- Secure cart synchronization across devices
-- Professional payment workflow with Stripe
-- JWT-based secure session management
-- Multi-database support for optimal data storage patterns
-
----
-
-### 🐉 [Dragon Dash Game](https://github.com/Rohith-180503/DRAGON-DASH-GAME) – Endless Runner Game
-**Live:** https://dragon-dash-game.vercel.app
-
-An interactive endless runner game featuring advanced physics, sprite-based animation, and particle effects—built entirely with vanilla JavaScript.
-
-**Tech Stack:** JavaScript (ES6+) • HTML5 • CSS3 • Web Audio API
-
-**Core Engineering Problems Solved:**
-- **Game Physics Engine**: Implemented gravity-based jumping mechanics with frame-perfect collision detection using bounding box algorithms
-- **Sprite Animation Pipeline**: Built automated sprite frame sequencing using CSS keyframe calculations for smooth character and obstacle animations
-- **Parallax Scrolling**: Layered background rendering with variable speeds for immersive visual depth perception
-- **Audio Synthesis**: Created procedural sound effects using Web Audio API (jump sounds, level-ups, game-over audio)
-- **Responsive Game Controls**: Dual input system supporting keyboard (desktop) and touch buttons (mobile)
-- **High Score Persistence**: LocalStorage-based leaderboard system with client-side data management
-
-**Key Features:**
-- Endless obstacle spawning with progressive difficulty scaling
-- Multi-directional player movement (left, right, jump, duck)
-- Dynamic level progression with increasing game speed
-- Visual feedback via screen shake and particle effects
-- Mobile-friendly touch controls
-- Persistent high score tracking
-
----
-
-### ✅ [TaskFlow](https://github.com/Rohith-180503/TaskFlow) – Full-Stack Task Management
-**Live:**https://taskflow-nm5v.onrender.com
-
-An enterprise-grade task management application demonstrating clean architecture, RESTful API design, and modern Spring Boot practices.
-
-**Tech Stack:** Java 17 • Spring Boot 3.3 • Spring Data JPA • MySQL • H2 Database • Maven • Docker
-
-**Core Engineering Problems Solved:**
-- **Layered Architecture**: Implemented clean separation of concerns (Controller → Service → Repository) for maintainability and testability
-- **Data Validation**: Added Bean Validation annotations for input sanitization and business rule enforcement
-- **Exception Handling**: Centralized error handling with structured error responses and meaningful HTTP status codes
-- **Database Persistence**: Utilized Spring Data JPA with MySQL for relational data integrity and H2 for in-memory testing with production-ready patterns
-- **REST API Design**: RESTful endpoints with proper CRUD operations and query parameters for filtering/sorting
-- **Frontend Integration**: Responsive HTML/CSS/JavaScript UI seamlessly communicating with backend via REST
-
-**Key Features:**
-- Complete CRUD operations for task management
-- Priority-based filtering and sorting
-- Task completion tracking with statistics
-- Light/dark theme toggle
-- RESTful API with structured error responses
-- MySQL persistence with relational integrity
-- Containerized deployment with Docker
-
----
-
-## 📊 GitHub Stats
+```
+███████╗██╗      █████╗ ███████╗██╗  ██╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔════╝██║     ██╔══██╗██╔════╝██║  ██║    ██╔════╝ ██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+█████╗  ██║     ███████║███████╗███████║    ██║  ███╗█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██╔══╝  ██║     ██╔══██║╚════██║██╔══██║    ██║   ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██║     ███████╗██║  ██║███████║██║  ██║    ╚██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-180503&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+### 🚀 **Full-Stack Developer | 🎮 Game Engineer | ⚡ Problem Solver**
+
+> *Building blazing-fast web applications, immersive interactive experiences, and battle-tested backend systems with cutting-edge technologies.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rohith-180503&style=for-the-badge&color=FF6B6B)
+
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## 💫 **Who I Am**
 
-- **GitHub**: [@Rohith-180503](https://github.com/Rohith-180503)
-- **Email**: Open to opportunities and collaborations
-
----
-
-## 🎓 Key Competencies
-
-✅ **Full-Stack Architecture** - Frontend-to-database integration  
-✅ **RESTful API Design** - Clean, scalable endpoint design  
-✅ **Game Development** - Physics engines, collision detection, animations  
-✅ **Security** - JWT auth, password hashing, XSS prevention  
-✅ **State Management** - Context API, session persistence, real-time sync  
-✅ **Database Design** - Relational (MySQL) and NoSQL (MongoDB) schema modeling  
-✅ **Polyglot Persistence** - Choosing optimal data stores for different use cases  
-✅ **Responsive UI/UX** - Mobile-first design, accessibility considerations  
-✅ **DevOps & Deployment** - Docker, Vercel, environment configuration  
+```
+┌─────────────────────────────────────────────────────────────┐
+│  A full-stack architect crafting digital experiences that   │
+│  blend clean code with creative problem-solving.            │
+│                                                             │
+│  🎯 Specializing in:                                        │
+│     ├─ Enterprise-grade full-stack systems                  │
+│     ├─ High-performance game development                    │
+│     ├─ RESTful API design & optimization                    │
+│     └─ Polyglot persistence strategies                      │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
+
+## 🛠️ **Tech Arsenal**
+
+<table align="center">
+  <tr>
+    <td colspan="5" align="center"><b>⚡ FRONTEND TECHNOLOGIES</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><b>🔧 BACKEND TECHNOLOGIES</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><b>💾 DATABASES & STORAGE</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Bcrypt-4A90E2?style=for-the-badge&logo=security&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><b>🚀 DEVOPS & DEPLOYMENT</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+### 🎓 **Core Competencies**
 
 <div align="center">
 
-**Transforming ideas into scalable, user-friendly software solutions** 🚀
+| Skill | Expertise |
+|:---:|:---:|
+| 🏗️ Full-Stack Architecture | Frontend ↔️ Database Integration |
+| 🔐 Security | JWT Auth • XSS Prevention • Password Hashing |
+| 🎮 Game Physics | Collision Detection • Sprite Animation • Particle Effects |
+| 📊 Database Design | Relational (MySQL) • Document (MongoDB) • In-Memory (SQLite/H2) |
+| ⚙️ API Design | RESTful Endpoints • Clean Semantics • Error Handling |
+| 🎨 State Management | Context API • Session Persistence • Real-time Sync |
+| 📱 UI/UX | Mobile-First • Responsive Design • Accessibility |
+| 🚀 DevOps | Docker • CI/CD • Environment Configuration |
+
+</div>
+
+---
+
+## 🏆 **Featured Projects**
+
+### 🎓 **LearnHub** – Education Revolution Platform
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Rohith-180503/LEARNHUB)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-learnhub--wine.vercel.app-green?style=for-the-badge&logo=vercel)](https://learnhub-wine.vercel.app)
+
+</div>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    🏫 LEARNHUB PLATFORM                          ║
+║                                                                   ║
+║  📚 44+ Curated Courses  │  💳 Stripe Integration                ║
+║  🔐 Secure Auth         │  🔄 Multi-Database Sync               ║
+║  👥 User Enrollment     │  ⚡ Real-time Progress                ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+**Tech Stack:**
+```
+React 19 ⚛️ → Vite 🚀 → Context API 🔄 → Node.js + Express 🔧
+                        ↓
+        MySQL 🗄️ + MongoDB 📄 + SQLite 💾
+                        ↓
+                JWT 🔐 + Stripe 💰
+```
+
+**🔥 Engineering Highlights:**
+
+| Challenge | Solution |
+|-----------|----------|
+| **XSS Attacks** | httpOnly JWT cookies + SameSite enforcement |
+| **Session Consistency** | Relational DB integrity + Cross-device sync |
+| **Frictionless Payments** | Stripe Checkout webhooks + Idempotency |
+| **Prop Drilling Hell** | Global Context API (Auth + Cart) |
+| **Complex Data Models** | Hierarchical design: Courses → Modules → Lessons |
+| **Data Flexibility** | MySQL (transactions) + MongoDB (metadata) |
+
+**✨ Key Features:**
+- ✅ Complete curriculum mapping with progress tracking
+- ✅ Secure payment workflow with webhook automation
+- ✅ Multi-device cart synchronization
+- ✅ JWT-based secure session management
+- ✅ Polyglot persistence strategy
+
+---
+
+### 🐉 **Dragon Dash Game** – Endless Runner Action
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Rohith-180503/DRAGON-DASH-GAME)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-dragon--dash.vercel.app-green?style=for-the-badge&logo=vercel)](https://dragon-dash-game.vercel.app)
+
+</div>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                   🎮 DRAGON DASH GAME                            ║
+║                                                                   ║
+║  Vanilla JavaScript Physics Engine • Sprite Animations           ║
+║  Web Audio Synthesis • Mobile-Responsive Controls                ║
+║  Progressive Difficulty • Persistent Leaderboards                ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+**Tech Stack:**
+```
+Vanilla JavaScript (ES6+) ⚡
+           ↓
+    ┌─────┴─────────────────┐
+    ↓                       ↓
+HTML5 Canvas 🎨      Web Audio API 🔊
+    ↓                       ↓
+    └─────────┬─────────────┘
+              ↓
+        CSS3 Animations 🎬
+              ↓
+        LocalStorage 💾
+```
+
+**🔥 Engineering Highlights:**
+
+| System | Implementation |
+|--------|-----------------|
+| **Physics** | Gravity-based jumping + Frame-perfect collision detection |
+| **Animation** | CSS keyframe sequencing + Sprite frame automation |
+| **Visuals** | Parallax scrolling (variable background speeds) |
+| **Audio** | Procedural sound synthesis (jump, level-up, game-over) |
+| **Controls** | Dual input: Keyboard + Touch buttons |
+| **Persistence** | LocalStorage-based high score system |
+
+**✨ Key Features:**
+- ✅ Progressive obstacle spawning with difficulty scaling
+- ✅ Multi-directional player movement (left, right, jump, duck)
+- ✅ Dynamic level progression with speed multipliers
+- ✅ Screen shake + particle effects for visual feedback
+- ✅ Mobile-first responsive design
+- ✅ Persistent leaderboard tracking
+
+---
+
+### ✅ **TaskFlow** – Enterprise Task Management
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/Repository-View%20Code-blue?style=for-the-badge&logo=github)](https://github.com/Rohith-180503/TaskFlow)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-taskflow.onrender.com-green?style=for-the-badge&logo=render)](https://taskflow-nm5v.onrender.com)
+
+</div>
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    ✅ TASKFLOW APPLICATION                       ║
+║                                                                   ║
+║  Spring Boot 3.3 Backend  │  MySQL Persistence                  ║
+║  Clean Architecture       │  Docker Containerization             ║
+║  RESTful API Design       │  Comprehensive Error Handling        ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+**Tech Stack:**
+```
+Spring Boot 3.3 🍃 (Java 17)
+           ↓
+    ┌──────┴────────────────┐
+    ↓                       ↓
+Spring Data JPA 🔌    Bean Validation ✔️
+    ↓                       ↓
+    └──────┬────────────────┘
+           ↓
+    MySQL 🗄️ + H2 In-Memory 💾
+           ↓
+      Docker 🐳 + Maven 📦
+```
+
+**🔥 Engineering Highlights:**
+
+| Component | Design Pattern |
+|-----------|-----------------|
+| **Architecture** | Controller → Service → Repository (Clean Separation) |
+| **Validation** | Bean Validation annotations (JSR-380) |
+| **Error Handling** | Centralized exception handlers + Structured responses |
+| **Persistence** | Spring Data JPA with MySQL + H2 testing |
+| **API Design** | RESTful with proper HTTP semantics |
+| **Frontend** | Responsive HTML/CSS/JS with dark/light themes |
+
+**✨ Key Features:**
+- ✅ Complete CRUD operations with clean endpoints
+- ✅ Priority-based filtering and sorting
+- ✅ Task completion statistics dashboard
+- ✅ Light/Dark theme toggle
+- ✅ Structured error responses
+- ✅ MySQL data integrity + Docker deployment
+
+---
+
+## 📊 **Performance & Impact**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rohith-180503&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_color=30363d" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-180503&theme=tokyonight&hide_border=true&background=0d1117&border=30363d" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 **Core Principles I Live By**
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                        ┃
+┃  📖 Clean Code → Maintainable Systems                 ┃
+┃  🔒 Security First → XSS/CSRF/Injection Protected    ┃
+┃  ⚡ Performance → Optimized for scale & speed        ┃
+┃  🎨 UX/DX → Intuitive interfaces & APIs              ┃
+┃  🧪 Testability → Loosely coupled components         ┃
+┃  📚 Documentation → Clear and comprehensive           ┃
+┃                                                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Rohith--180503-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohith-180503)
+[![Email](https://img.shields.io/badge/Email-Let%27s%20Talk-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohith@example.com)
+[![Open for Opportunities](https://img.shields.io/badge/Open%20For-Opportunities%20%26%20Collaborations-green?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Rohith-180503)
+
+</div>
+
+---
+
+## 🚀 **Quick Highlights**
+
+<div align="center">
+
+| 🎯 | 🔨 | 📈 |
+|:---:|:---:|:---:|
+| **6+ Projects** | **Full-Stack** | **Scalable** |
+| Mission-Driven | End-to-End | Production-Ready |
+
+</div>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║         "Code is poetry written for machines to execute       ║
+║          and humans to understand"                             ║
+║                                                                ║
+║          🚀 Transforming Ideas → Digital Solutions 🚀         ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+**Made with ❤️ by [Rohith](https://github.com/Rohith-180503) | Always Learning • Always Building • Always Shipping** 🚀
 
 </div>
