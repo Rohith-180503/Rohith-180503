@@ -25,6 +25,12 @@ My focus is on clean interfaces, bold visuals, and user experiences that leave a
 - Creative Branding
 - Product Thinking
 
+## 🔥 Featured Projects
+- [Portfolio / Main Project](https://github.com/yourusername/project-one)
+- [Design System / UI Kit](https://github.com/yourusername/project-two)
+- [Utility Tools](https://github.com/yourusername/project-three)
+- [Experiment Lab](https://github.com/yourusername/project-four)
+
 ## 🧩 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
