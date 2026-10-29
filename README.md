@@ -122,7 +122,7 @@ Here are some of the projects that reflect my learning and development growth:
 ### 🌐 Portfolio
 A personal portfolio website designed to showcase my work, identity, and growth as a developer.
 
-- Repository: [PORTFOLIO](https://github.com/Rohith-180503/PORTFOLIO)
+- Repository: [PORTFOLIO](https://rohith-180503.github.io/PORTFOLIO/)
 
 ### ✅ TaskFlow
 A productivity-focused project built with a strong focus on usability and front-end structure.
